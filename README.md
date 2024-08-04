@@ -14,6 +14,7 @@ I am a passionate web developer with a strong foundation in creating dynamic and
 ## Projects
 
 Here are some notable projects you might find interesting:
+coming soon.....
 
 ## Skills
 
@@ -40,9 +41,8 @@ Here’s a summary of the skills and technologies I’m proficient in:
 
 You can reach out to me via the following channels:
 
-- **Email:** [ankit.bhardwaj@example.com](mailto:ankit.bhardwaj@example.com)
+- **Email:** [ankitbhardwajx2406@gmail.com](mailto:ankitbhardwajx2406@gmail.com)
 - **LinkedIn:** [linkedin.com/in/ankitbhardwaj](https://linkedin.com/in/ankitbhardwaj)
-- **Twitter:** [@ankitbhardwaj](https://twitter.com/ankitbhardwaj)
 
 Feel free to connect with me for collaboration opportunities, questions, or just to say hello!
 
