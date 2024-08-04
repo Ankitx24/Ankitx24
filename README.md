@@ -15,12 +15,6 @@ I am a passionate web developer with a strong foundation in creating dynamic and
 
 Here are some notable projects you might find interesting:
 
-1. **[Project Name 1](#)** - A brief description of the project. (Include features, technologies used, and any relevant links or screenshots)
-2. **[Project Name 2](#)** - A brief description of the project. (Include features, technologies used, and any relevant links or screenshots)
-3. **[Project Name 3](#)** - A brief description of the project. (Include features, technologies used, and any relevant links or screenshots)
-
-Feel free to explore these projects to see my work in action.
-
 ## Skills
 
 Here’s a summary of the skills and technologies I’m proficient in:
