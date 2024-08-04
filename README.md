@@ -1,4 +1,4 @@
-# Ankit Bhardwaj
+# Ankit Kumar Bhardwaj
 
 Welcome to my GitHub profile! I’m Ankit Bhardwaj, a web developer currently pursuing a BTech at Trident Academy of Technology. Here, you’ll find a collection of my projects, skills, and other relevant details that showcase my work and interests in the world of web development.
 
