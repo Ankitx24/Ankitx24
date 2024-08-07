@@ -42,7 +42,7 @@ Here’s a summary of the skills and technologies I’m proficient in:
 You can reach out to me via the following channels:
 
 - **Email:** [ankitbhardwajx2406@gmail.com](mailto:ankitbhardwajx2406@gmail.com)
-- **LinkedIn:** [linkedin.com/in/ankitbhardwaj](https://linkedin.com/in/ankit-kumar-bhardwaj)
+- **LinkedIn:** [linkedin.com/in/ankitbhardwaj](www.linkedin.com/in/ankit-kumar-bhardwaj)
   
   
 
