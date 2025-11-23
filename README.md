@@ -1,53 +1,47 @@
-# Ankit Kumar Bhardwaj
+Ankit Kumar Bhardwaj
 
-Welcome to my GitHub profile! I’m Ankit Bhardwaj, a web developer currently pursuing a BTech at Trident Academy of Technology. 
+Welcome to my GitHub profile! I’m Ankit Bhardwaj, an aspiring Data Engineer, currently undergoing Data Analyst training at AccioJob after completing my BTech.
 
-## Profile Description
+Profile Description
 
-I am a passionate web developer with a strong foundation in creating dynamic and responsive websites. My journey in web development has equipped me with various skills and tools, which I continue to enhance through practical experience and learning.
+I am actively developing deep expertise in data engineering and analytics. My work focuses on transforming raw data into structured, reliable, and high-quality datasets that support analytical and business decision-making processes.
+My current training, combined with my hands-on learning, enables me to work confidently with databases, data pipelines, and modern visualization tools. I continuously enhance my technical capabilities to keep pace with evolving industry requirements.
 
-## Content
+Skills
+Programming Languages
 
-- **Projects:** Explore my repositories to see the projects I've been working on. Each project includes documentation and instructions for setup and use.
-- **Skills:** Review my technical skills and tools I use to build modern web applications.
+Python
 
-## Projects
+SQL
 
-Here are some notable projects you might find interesting:
-coming soon.....
+Databases & Data Engineering Technologies
 
-## Skills
+MySQL
 
-Here’s a summary of the skills and technologies I’m proficient in:
+PostgreSQL
 
-### Programming Languages
-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) **HTML**
-- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) **CSS**
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript**
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) **Java**
-- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) **C**
+MongoDB (learning)
 
-### Technologies
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) **MySQL**
-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) **TailwindCSS**
+Data Visualization Tools
 
-### Tools
-- ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) **Visual Studio Code (VSCode)**
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) **Git**
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) **GitHub**
-- ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white) **Chrome DevTools**
+Power BI
 
-## Contact
+Tableau
 
-You can reach out to me via the following channels:
+Cloud & Development Tools
 
-- **Email:** [ankitbhardwajx2406@gmail.com](mailto:ankitbhardwajx2406@gmail.com)
-- **LinkedIn:** [linkedin.com/in/ankitbhardwaj](www.linkedin.com/in/ankit-kumar-bhardwaj)
-  
-  
+AWS (learning)
 
-Feel free to connect with me for collaboration opportunities, questions, or just to say hello!
+Git
 
----
+GitHub
 
-Thank you for visiting my GitHub profile! I hope you find my work interesting and informative.
+VS Code
+
+Contact
+
+Email: ankitbhardwajx2406@gmail.com
+
+LinkedIn: linkedin.com/in/ankit-kumar-bhardwaj
+
+Thank you for visiting my GitHub profile. I welcome connections from recruiters, developers, and data professionals as I continue advancing my capabilities in data engineering.
